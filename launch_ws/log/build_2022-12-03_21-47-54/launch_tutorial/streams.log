@@ -1,0 +1,37 @@
+[0.614s] Invoking command in '/home/sam/ros2-tutorial-files/launch_ws/src/launch_tutorial': PYTHONPATH=/home/sam/ros2-tutorial-files/launch_ws/build/launch_tutorial/prefix_override:/home/sam/ros2-tutorial-files/launch_ws/install/launch_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/launch_tutorial build --build-base /home/sam/ros2-tutorial-files/launch_ws/build/launch_tutorial/build install --record /home/sam/ros2-tutorial-files/launch_ws/build/launch_tutorial/install.log --single-version-externally-managed
+[0.779s] running egg_info
+[0.780s] creating ../../build/launch_tutorial/launch_tutorial.egg-info
+[0.780s] writing ../../build/launch_tutorial/launch_tutorial.egg-info/PKG-INFO
+[0.780s] writing dependency_links to ../../build/launch_tutorial/launch_tutorial.egg-info/dependency_links.txt
+[0.780s] writing entry points to ../../build/launch_tutorial/launch_tutorial.egg-info/entry_points.txt
+[0.780s] writing requirements to ../../build/launch_tutorial/launch_tutorial.egg-info/requires.txt
+[0.780s] writing top-level names to ../../build/launch_tutorial/launch_tutorial.egg-info/top_level.txt
+[0.780s] writing manifest file '../../build/launch_tutorial/launch_tutorial.egg-info/SOURCES.txt'
+[0.781s] reading manifest file '../../build/launch_tutorial/launch_tutorial.egg-info/SOURCES.txt'
+[0.782s] writing manifest file '../../build/launch_tutorial/launch_tutorial.egg-info/SOURCES.txt'
+[0.782s] running build
+[0.782s] running build_py
+[0.782s] creating /home/sam/ros2-tutorial-files/launch_ws/build/launch_tutorial/build
+[0.782s] creating /home/sam/ros2-tutorial-files/launch_ws/build/launch_tutorial/build/lib
+[0.782s] creating /home/sam/ros2-tutorial-files/launch_ws/build/launch_tutorial/build/lib/launch_tutorial
+[0.782s] copying launch_tutorial/__init__.py -> /home/sam/ros2-tutorial-files/launch_ws/build/launch_tutorial/build/lib/launch_tutorial
+[0.782s] running install
+[0.782s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.783s]   warnings.warn(
+[0.783s] running install_lib
+[0.783s] creating /home/sam/ros2-tutorial-files/launch_ws/install/launch_tutorial/lib/python3.10/site-packages/launch_tutorial
+[0.783s] copying /home/sam/ros2-tutorial-files/launch_ws/build/launch_tutorial/build/lib/launch_tutorial/__init__.py -> /home/sam/ros2-tutorial-files/launch_ws/install/launch_tutorial/lib/python3.10/site-packages/launch_tutorial
+[0.784s] byte-compiling /home/sam/ros2-tutorial-files/launch_ws/install/launch_tutorial/lib/python3.10/site-packages/launch_tutorial/__init__.py to __init__.cpython-310.pyc
+[0.784s] running install_data
+[0.784s] creating /home/sam/ros2-tutorial-files/launch_ws/install/launch_tutorial/share/ament_index
+[0.784s] creating /home/sam/ros2-tutorial-files/launch_ws/install/launch_tutorial/share/ament_index/resource_index
+[0.784s] creating /home/sam/ros2-tutorial-files/launch_ws/install/launch_tutorial/share/ament_index/resource_index/packages
+[0.784s] copying resource/launch_tutorial -> /home/sam/ros2-tutorial-files/launch_ws/install/launch_tutorial/share/ament_index/resource_index/packages
+[0.784s] copying package.xml -> /home/sam/ros2-tutorial-files/launch_ws/install/launch_tutorial/share/launch_tutorial
+[0.784s] copying launch/example_substitutions.launch.py -> /home/sam/ros2-tutorial-files/launch_ws/install/launch_tutorial/share/launch_tutorial
+[0.784s] copying launch/example_main.launch.py -> /home/sam/ros2-tutorial-files/launch_ws/install/launch_tutorial/share/launch_tutorial
+[0.784s] running install_egg_info
+[0.786s] Copying ../../build/launch_tutorial/launch_tutorial.egg-info to /home/sam/ros2-tutorial-files/launch_ws/install/launch_tutorial/lib/python3.10/site-packages/launch_tutorial-0.0.0-py3.10.egg-info
+[0.786s] running install_scripts
+[0.802s] writing list of installed files to '/home/sam/ros2-tutorial-files/launch_ws/build/launch_tutorial/install.log'
+[0.822s] Invoked command in '/home/sam/ros2-tutorial-files/launch_ws/src/launch_tutorial' returned '0': PYTHONPATH=/home/sam/ros2-tutorial-files/launch_ws/build/launch_tutorial/prefix_override:/home/sam/ros2-tutorial-files/launch_ws/install/launch_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/launch_tutorial build --build-base /home/sam/ros2-tutorial-files/launch_ws/build/launch_tutorial/build install --record /home/sam/ros2-tutorial-files/launch_ws/build/launch_tutorial/install.log --single-version-externally-managed
